@@ -1,0 +1,3 @@
+void main(){
+  print("puskar ");
+}
