@@ -1,0 +1,4 @@
+#Thu Mar 23 11:56:09 NPT 2023
+base.0=D\:\\git\\flutter_login_UI\\day_04\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
